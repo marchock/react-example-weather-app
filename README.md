@@ -5,7 +5,7 @@ Checkout this repo, install dependencies.
 
 ```
 	> git clone git@github.com:marchock/react-example-weather-app.git
-	> cd ReduxSimpleStarter
+	> cd react-example-weather-app
 	> npm install
 	> npm start
 ```
